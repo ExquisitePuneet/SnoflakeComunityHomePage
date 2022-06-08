@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="35" viewBox="0 0 40 35">
+  <g id="Octicons" transform="translate(0 -1)">
+    <g id="comment-discussion" transform="translate(0 1)">
+      <path id="Shape" d="M37.5,1H15a2.507,2.507,0,0,0-2.5,2.5v5H2.5A2.507,2.507,0,0,0,0,11V26a2.507,2.507,0,0,0,2.5,2.5H5V36l7.5-7.5h10A2.507,2.507,0,0,0,25,26V21h2.5L35,28.5V21h2.5A2.507,2.507,0,0,0,40,18.5V3.5A2.507,2.507,0,0,0,37.5,1Zm-15,25H11.25L7.5,29.75V26h-5V11h10v7.5A2.507,2.507,0,0,0,15,21h7.5Zm15-7.5h-5v3.75L28.75,18.5H15V3.5H37.5Z" transform="translate(0 -1)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
